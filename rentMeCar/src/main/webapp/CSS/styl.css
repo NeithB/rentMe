@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+#bloc1{	
+	width: 50%;
+	padding: 30px;
+}
+#bloc{
+	
+}
+#inscr{
+	margin: -17px 15px;
+			
+}
+
+main{
+	 background: linear-gradient(to left, rgb(0, 0, 0), rgb(128, 128, 128));
+	 height: 84.6vh;
+	 
+}
+.log{
+	color:rgb(255, 255, 255);
+	margin-left: 150px;
+	font-family: "Brush Script MT", "Brush Script Std", cursive;
+	font-size: 60px;
+}
+#form{
+	
+	width:100%;
+}
